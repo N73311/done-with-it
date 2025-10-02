@@ -20,6 +20,7 @@
     "dayjs": "^1.8.28",
     "expo": "~37.0.3",
     "expo-blur": "~8.1.0",
+    "expo-cli": "^6.3.12",
     "expo-constants": "^9.0.0",
     "expo-font": "~8.1.0",
     "expo-image-picker": "~8.1.0",
@@ -52,5 +53,14 @@
     "eslint-plugin-react": "^7.21.3",
     "eslint-plugin-react-hooks": "^4.1.2"
   },
-  "private": true
+  "private": true,
+  "author": {
+    "name": "Zachariah Ayers",
+    "email": "zach@meridianvega.com",
+    "company": "Meridian Vega"
+  },
+  "license": "Apache-2.0",
+  "engines": {
+    "node": "22.20.0"
+  }
 }
